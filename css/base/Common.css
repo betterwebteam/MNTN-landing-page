@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Bentham', serif;
+    src: url('../../fonts/Bentham-Regular.ttf');
+}
+@font-face {
+    font-family: 'Khula', sans-serif;
+    src: url('../../fonts/Khula-Bold.ttf');
+}
+.headerFont{
+    font-family: 'Bentham', serif;
+}
+.textFont{
+    font-family: 'Khula', sans-serif;
+}
+.bodySmallText{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0;
+    text-align: left;
+
+}
+.bodyMediumTitle{
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 77px;
+    letter-spacing: 0;
+    text-align: left;
+
+}
+.bodyFadeNumProperties{
+    height: 240px;
+    width: 240px;
+    left: 0;
+    top: 38px;
+    opacity: 10%;
+}
+.bodyFadeNumTypography{
+    font-size: 240px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 240px;
+    letter-spacing: 0;
+    text-align: left;
+}
+.bodyPhoto{
+    height: 720px;
+    width: 566px;
+    left: 896px;
+    top: 0;
+}
